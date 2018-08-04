@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "71819424941",
+    "firebase_url": "https://saylaniproject-b0949.firebaseio.com",
+    "project_id": "saylaniproject-b0949",
+    "storage_bucket": "saylaniproject-b0949.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71819424941:android:8107e336e2d91917",
+        "android_client_info": {
+          "package_name": "com.example.samikhan.saylani_final_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71819424941-ttdf9httjqrvigr9k3jo5pgmjeknenat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5e7J9In7lBbV5h7BcN0jpNMj1aG4k_1w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
